@@ -1,7 +1,3 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+### Hi there 👋
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/coswat/count.svg" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=coswat&show_icons=true&count_private=true&theme=dark)
